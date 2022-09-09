@@ -19,6 +19,5 @@
 ## 3. Why do we store the data?
 
 #### 1. It stores-
-- server ID to store other server data linked to it (role id, tag)
-- tag to check trigger in username and fire the actions 
+- server ID to store other server data linked to it (role id)
 - role ID to assign reward role 
