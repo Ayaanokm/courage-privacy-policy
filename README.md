@@ -1,5 +1,4 @@
 # courage-privacy-policy
-# Vanity-Privacy-Policy
 
 ### By using Courage you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
 
